@@ -50,20 +50,25 @@ The `.twbx` file contains the Tableau workbook and the embedded `.hyper` dataset
 ## 📈 Dashboard Features
 
 ### **1️⃣ Employment Overview (2011–2014)**  
+<img width="1908" height="854" alt="image" src="https://github.com/user-attachments/assets/0dfdfaad-18c0-4715-b652-f5f4f4f9acad" />
 A high-level view of how employment numbers changed year-to-year.
 
 ### **2️⃣ Regional Labour Distribution**  
-Map/charts illustrating employment by UK region.
+<img width="1710" height="854" alt="image" src="https://github.com/user-attachments/assets/9699a162-9d91-4906-b30f-ea9f625644a2" />
+Map/charts illustrating employment by UK City.
 
 ### **3️⃣ Industry Breakdown**  
-Insights into which industries saw growth or decline.
+<img width="1704" height="852" alt="image" src="https://github.com/user-attachments/assets/5b9d92ac-9ab4-4400-9bb0-d1da8fd28419" />
+Insights into which industries saw growth.
 
 ### **4️⃣ Year-over-Year Growth Analysis**  
-Comparative analytics showing percent change across industries and regions.
+<img width="1704" height="858" alt="image" src="https://github.com/user-attachments/assets/f10d49a7-9c01-45d6-bb11-3920219aaf5f" />
+Comparative analytics showing percent change across sub-industries.
 
 ### **5️⃣ Interactive Filters**  
+<img width="1707" height="855" alt="image" src="https://github.com/user-attachments/assets/34f2efc7-58d0-44a3-98e7-26bc6015c4c3" />
 Users can filter by:  
-- Year  
-- Region  
-- Industry Category  
+
+- City  
+- Sub-Industry Category  
 
